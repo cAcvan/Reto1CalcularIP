@@ -1,5 +1,3 @@
-import java.util.Locale;
-
 public class TipoDeRed {
     public static void clase(int[] array){
         int num1 = array[0];
@@ -27,11 +25,11 @@ public class TipoDeRed {
 
 
         if(ip1.equals("10")) {
-            System.out.println("La IP x es privada.");
+            System.out.println("La IP  es privada.");
         } else if (ip2.equals("172.16")) {
-            System.out.println("La IP y es privada.");
+            System.out.println("La IP es privada.");
         } else if (ip2.equals("192.168")) {
-            System.out.println("La IP z es privada.");
+            System.out.println("La IP es privada.");
         } else {
             System.out.println("La IP es pública.");
         }
