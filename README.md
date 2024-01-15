@@ -1,4 +1,4 @@
-Para que funcione el programa hay que JUNTAR TODOS LOS ARCHIVOS .java 
+Para que funcione el programa hay que JUNTAR TODOS LOS ARCHIVOS .java en INTELLIJ.
 
 ¡¡¡IMPORTANTE!!!
 
