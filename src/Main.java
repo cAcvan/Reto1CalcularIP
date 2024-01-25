@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public static void main(String[] args) throws InterruptedException {
-    Marco m = new Marco();
+    Validacion m = new Marco();
     Scanner sc = new Scanner(System.in);
     int[] array = new int[4];
     int[] array2 = new int[4];
