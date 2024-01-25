@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Marco {
+public class Validacion {
     private String ip;
     private String ipString[] = new String[5];
     private String ipString2[] = new String[4];
